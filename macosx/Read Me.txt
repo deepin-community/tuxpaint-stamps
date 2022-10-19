@@ -1,0 +1,7 @@
+Tux Paint Stamps Installer XCode Project
+
+There are two steps to compiling the Tux Paint Stamps Installer application for Mac OS X.  After opening the project:
+
+1) Select "Stamps Archive" from the Active Target menu and click Build. This will generate the tuxpaint-stamps.tar.gz archive.
+2) Select "Tux Paint Stamps" Installer from the Active Target menu and click Build.  This will create the actual application (which bundles tuxpaint-stamps.tar.gz)
+

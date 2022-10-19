@@ -1,0 +1,10 @@
+A wrapped gift.
+ca.utf8=Un regal.
+ca@valencia.utf8=Un regal.
+fr.utf8=Un cadeau enveloppé.
+gl.utf8=Un agasallo envolto.
+is.utf8=Innpökkuð gjöf.
+ja.utf8=クリスマスプレゼント
+nb.utf8=En innpakket gave.
+nn.utf8=Ei innpakka gåve.
+sq.utf8=Dhuratë e mbështjellë.

@@ -1,0 +1,2 @@
+# These text files are in fact data, not documentation
+tuxpaint-stamps-default: package-contains-documentation-outside-usr-share-doc
